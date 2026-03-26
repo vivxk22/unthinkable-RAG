@@ -1,4 +1,4 @@
-# Construction Marketplace Mini RAG
+# Knowledge-base Search Engine
 
 This project implements a Retrieval-Augmented Generation (RAG) assistant for a construction marketplace. It allows users to upload internal documents ( policies, FAQs, specifications ), builds a local vector index, and grounds LLM-generated answers strictly within the retrieved context to ensure correctness and prevent hallucinations.
 
